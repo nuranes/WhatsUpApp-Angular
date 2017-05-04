@@ -1,0 +1,177 @@
+﻿<!DOCTYPE html>
+<html ng-app="whatsUpApp">
+<head>
+    <title>Journalistdelen - Visning og opprett ny nyhetsartikkel</title>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href=""><!--Removes favicon.ico error-->
+    <link rel="stylesheet" type="text/css" href="react-angular-bootstrap-local/css/bootstrap.min.css" /><!--Bootstrap-->
+    
+</head>
+<body ng-controller="JournalistController as journalistCtrl">
+
+    <div class="container">
+
+        <!--Header-->
+        <header class="page-header">
+            <h1>WhatsUp - Journalist</h1>
+        </header><!--end Header-->
+
+        <!--Nav-->
+        <nav>
+            <ul>
+                <li><a href="journalist-updateDeleteNews.html">Journalist: Oppdatere/slette nyhetsartikkel</a></li>
+                <li><a href="customer-index.html">Kunde-siden</a></li><!--To customer-site-->
+            </ul>
+        </nav><!--end Nav-->
+
+        <!--Add new newsArticle-->
+        <section class="bg-success">
+            <h3>Legg til ny nyhetsartikkel</h3>
+            <table class="table-condensed">
+                <tr>
+                    <td>ID</td>
+                    <td><input class="form-control" type="text" ng-model="journalistCtrl.id" /></td>
+                </tr>
+                <tr>
+                    <td>Tittel</td>
+                    <td><input class="form-control" type="text" ng-model="journalistCtrl.title" /></td>
+                </tr>
+                <tr>
+                    <td>Dato</td>
+                    <td><input class="form-control" type="text" ng-model="journalistCtrl.date" /></td>
+                </tr>
+                <tr>
+                    <td>Kategori</td>
+                    <td><input class="form-control" type="text" ng-model="journalistCtrl.category" /></td>
+                </tr>
+                <tr>
+                    <td>Tekst</td>
+                    <td><textarea class="form-control" type="text" ng-model="journalistCtrl.text"></textarea></td>
+                </tr>
+            </table><!--end table-->
+
+            <input class="btn btn-success" type="button" ng-click="journalistCtrl.addNews()" value="Lagre" />
+
+        </section><!--end Add new newsArticle-->
+
+        <!--Show saved newsArticle in table-->
+        <section>
+            <h3>NYHETER:</h3>
+            <table class="table-condensed table-striped" ng-repeat="newsObject in journalistCtrl.newsList">
+                <tr>
+                    <td><h3>Tittel:</h3></td>
+                    <td><h3>{{newsObject.news.title}}</h3></td>
+                </tr>
+                <tr>
+                    <td><b>ID:</b></td>
+                    <td>{{newsObject.news.id}}</td>
+                </tr>
+                <tr>
+                    <td><b>Dato publisert:</b></td>
+                    <td>{{newsObject.news.date}}</td>
+                </tr>
+                <tr>
+                    <td><b>Kategori:</b></td>
+                    <td>{{newsObject.news.category}}</td>
+                </tr>
+                <tr>
+                    <td><b>Tekst:</b></td>
+                    <td>{{newsObject.news.text}}</td>
+                </tr>
+                <tr>
+                    <td><b>Bilde:</b></td>
+                    <td><img class="img-responsive" ng-src="{{newsObject.news.img}}" alt=""></td>
+                </tr>
+            </table>
+        </section><!--end Show saved newsArticle in table-->
+    </div><!--end container-->
+
+    <script src="react-angular-bootstrap-local/js/angular.min.js"></script><!--Angular-->
+    <script>
+        var whatsUpApp = angular.module("whatsUpApp", []);
+
+        whatsUpApp.controller("JournalistController", ["$http", "$scope", function ($http, $scope) {
+            var _this = this;
+            _this.newsList = [ //Start/default news
+                {
+                    news: {
+                        id: "1000",
+                        title: "Test tittle",
+                        date: "01.01.2016",
+                        category: "Underholdning",
+                        text: "Utvida tekst om nyhetsartikkelen."
+                    }
+                }];
+            //Empty to get news from XML:
+            _this.id = "";
+            _this.title = "";
+            _this.date = "";
+            _this.category = "";
+            _this.text = "";
+
+            //addNews:
+            _this.addNews = function () {
+                var addNewsUrl = "api/Journalist/AddNews"; //Path to Controller
+
+                $http
+                    .post(
+                        addNewsUrl,
+                        JSON.stringify(
+                            {
+                                id: _this.id,
+                                title: _this.title,
+                                date: _this.date,
+                                category: _this.category,
+                                text: _this.text
+                            }
+                        ),
+                        {
+                            headers: { "Content-Type": "application/json" }
+                        }
+                    )
+                    .then(
+                        function (response) {
+                            var id = response.data.Id;
+                            var title = response.data.Title;
+                            var date = response.data.Date;
+                            var category = response.data.Category;
+                            var text = response.data.Text;
+                            _this.newsList.push({
+                                news: {
+                                    id: id,
+                                    title: title,
+                                    date: date,
+                                    category: category,
+                                    text: text
+                                }
+                            });
+                            alert("Ny nyhetsartikkelen blei oppretta!");
+                            console.log(response); //Showes the created news in console
+                        }, function (response) {
+                            alert("Ny nyhetsartikkelen blei IKKJE oppretta.");
+                            //console.log("Opprette: Error" + response);
+                        }
+                    )
+            };//end addNews
+
+            //getNews  - retrive:
+            var getNews = function () {
+
+                var getNewsUrl = "api/Journalist/GetNews"; //api/controller/function, path to Controller
+                $http
+                    .get(getNewsUrl)
+                    .then(
+                        function (response) {
+                            console.log("Henting: OK");
+                            _this.newsList = response.data;
+                        },
+                        function (response) {
+                            console.log("Henting: Error");
+                        }
+                    )
+            }();//end getNews - retrive
+        }]);//end JournalistController
+    </script>
+
+</body>
+</html>

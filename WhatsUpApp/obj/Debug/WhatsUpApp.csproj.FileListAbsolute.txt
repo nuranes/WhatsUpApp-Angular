@@ -1,0 +1,368 @@
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\ApplicationInsights.config
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\roslyn\csc.exe
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\roslyn\vbc.exe
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.dll.config
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.pdb
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Web.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\Newtonsoft.Json.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Web.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\Newtonsoft.Json.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.csprojResolveAssemblyReference.cache
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.pdb
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\ApplicationInsights.config
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\roslyn\csc.exe
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\roslyn\vbc.exe
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.dll.config
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.pdb
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Web.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\Newtonsoft.Json.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Web.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\Newtonsoft.Json.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.csprojResolveAssemblyReference.cache
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.pdb
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\ApplicationInsights.config
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\roslyn\csc.exe
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\roslyn\vbc.exe
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\WhatsUpApp.dll.config
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\WhatsUpApp.pdb
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\Microsoft.AI.Web.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\Newtonsoft.Json.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\System.Web.Http.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\Microsoft.AI.Web.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\Newtonsoft.Json.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\System.Web.Http.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\obj\Debug\WhatsUpApp.csprojResolveAssemblyReference.cache
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\obj\Debug\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Get\WhatsUpApp\obj\Debug\WhatsUpApp.pdb
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\ApplicationInsights.config
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\roslyn\csc.exe
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\roslyn\vbc.exe
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\WhatsUpApp.dll.config
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\WhatsUpApp.pdb
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\Microsoft.AI.Web.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\Newtonsoft.Json.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\System.Web.Http.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\Microsoft.AI.Web.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\Newtonsoft.Json.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\System.Web.Http.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\obj\Debug\WhatsUpApp.csprojResolveAssemblyReference.cache
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\obj\Debug\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Add\WhatsUpApp\obj\Debug\WhatsUpApp.pdb
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\ApplicationInsights.config
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\roslyn\csc.exe
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\roslyn\vbc.exe
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\WhatsUpApp.dll.config
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\WhatsUpApp.pdb
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\Microsoft.AI.Web.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\Newtonsoft.Json.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\System.Web.Http.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\Microsoft.AI.Web.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\Newtonsoft.Json.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\System.Web.Http.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\obj\Debug\WhatsUpApp.csprojResolveAssemblyReference.cache
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\obj\Debug\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\WhatsUpApp - Journalist klar\WhatsUpApp\obj\Debug\WhatsUpApp.pdb
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\ApplicationInsights.config
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\csc.exe
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\vbc.exe
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.dll.config
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.pdb
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Web.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Newtonsoft.Json.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Web.xml
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Newtonsoft.Json.xml
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.xml
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.csprojResolveAssemblyReference.cache
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.pdb
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\ApplicationInsights.config
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\csc.exe
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\vbc.exe
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.dll.config
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.pdb
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Web.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Newtonsoft.Json.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Web.xml
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Newtonsoft.Json.xml
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.xml
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.csprojResolveAssemblyReference.cache
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.pdb
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\ApplicationInsights.config
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\csc.exe
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\vbc.exe
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.dll.config
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.pdb
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Web.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Newtonsoft.Json.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Web.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Newtonsoft.Json.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.csprojResolveAssemblyReference.cache
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.pdb
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\ApplicationInsights.config
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\csc.exe
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\vbc.exe
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.dll.config
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\WhatsUpApp.pdb
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Web.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Newtonsoft.Json.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.Web.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\Newtonsoft.Json.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.csprojResolveAssemblyReference.cache
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.dll
+C:\Users\Natalie\Desktop\Westerdals\Webutvikling3\git_Webutvikling3 - Innlevering 2\FERDIG\uranat14_mappeinnlevering02\WhatsUpApp\WhatsUpApp\obj\Debug\WhatsUpApp.pdb

@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html ng-app="whatsUpApp">
+<head>
+    <title>Kundedelen</title>
+	<meta charset="utf-8" />
+    <link rel="shortcut icon" href=""><!--Removes favicon.ico error-->
+    <link rel="stylesheet" type="text/css" href="react-angular-bootstrap-local/css/bootstrap.min.css" /><!--Bootstrap-->
+
+</head>
+<body ng-controller="CustomerController as customerCtrl">
+
+    <div class="container">
+
+        <!--Header-->
+        <header class="page-header">
+            <h1>WhatsUp - Kunde</h1>
+        </header><!--end Header-->
+
+        <!--Nav-->
+        <nav>
+            <ul>
+                <li><a href="journalist-index.html">Journalist-siden</a></li>
+            </ul>
+        </nav><!--end Nav-->
+
+        <!--mainContent-->
+        <div>
+            <h3>NYHETER:</h3>
+            <input class="btn btn-info" ng-click="customerCtrl.changeVisibility()" type="button" value="Sjul / Vis" />
+
+            <section class="row">
+                <article class="col-md-4" ng-repeat="newsObject in customerCtrl.newsList" ng-show="customerCtrl.shouldShow">       
+                    <h3>{{newsObject.news.title}}</h3>
+                    <p>ID: {{newsObject.news.id}}</p>
+                    <p>Kategori: {{newsObject.news.category}}</p>
+                    <img class="img-responsive" ng-src="{{newsObject.news.img}}" alt="">
+                    <p><i>Publisert: {{newsObject.news.date}}</i></p>
+                    <p>{{newsObject.news.text}}</p>
+                </article>
+            </section><!--end row-->
+        </div><!--end mainContent-->
+    </div><!--end container-->
+
+<script src="react-angular-bootstrap-local/js/angular.min.js"></script><!--Angular-->
+<script>
+    var whatsUpApp = angular.module("whatsUpApp", []);
+
+    whatsUpApp.controller("CustomerController", ["$http", function ($http) {
+        var _this = this;
+
+        //To hide/show content
+        _this.shouldShow = false;
+
+        _this.changeVisibility = function () {
+            _this.shouldShow = !this.shouldShow;
+        };//end To hide/show content
+
+        //getNews - retrive
+        _this.getNews = function () {
+
+            var getNewsUrl = "api/Customer/GetNews"; //api/controller/function
+            $http
+                .get(getNewsUrl)
+                .then(
+                    function (response) {
+                        console.log(response);
+                        _this.newsList = response.data;
+                    },
+                    function (response) {
+                        console.log("Henting: Error");
+                    }
+                )
+            }();//end getNews - retrive
+
+        }]);//end CustomerController
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<newsArticles>
+  <news>
+    <id>1001</id>
+    <title>Større forskjell og flere fattige i Norge</title>
+    <date>12. desember 2016</date>
+    <category>Sport</category>
+    <text>Ulikhetene fortsetter å øke, og flere under 30 år har lite på konto. De som har mest fra før, soper med seg den største inntektsveksten.</text>
+    <img>Images/fattige.jpg</img>
+  </news>
+  <news>
+    <id>1002</id>
+    <title>Carl I. Hagen comeback</title>
+    <date>12. desember 2016</date>
+    <category>Politikk</category>
+    <text>Helt overraskende trakk Aina Stenersen (33) seg som kandidat til 4. plassen på Oslo Frps stortingsliste. Dermed kan Carl I. Hagen (72) gjøre comeback på Stortinget neste år.</text>
+    <img>Images/carliHagen.jpg</img>
+  </news>
+  <news>
+    <id>1003</id>
+    <title>Sofie Asplin ute av "Hotell Cæsar"</title>
+    <date>12. desember 2016</date>
+    <category>Underholdning</category>
+    <text>Da Sofie Asplin (20) dukket opp i «Hotel Cæsar» i fjor, tente TV-seerne på alle plugger. Men nå tror hun at de vil savne henne.</text>
+    <img>Images/sofieAsplin.jpg</img>
+  </news>
+  <news>
+    <id>1004</id>
+    <title>Ett års ekstra etterlønn</title>
+    <date>10. desember 2016</date>
+    <category>Politikk</category>
+    <text>Eks-stortingsrepresentanter kan nå få inntil 24 måneders etterlønn om de ikke får seg ny jobb. Det er ett år lengre enn dagens ordning.</text>
+    <img>Images/etterlonn.jpg</img>
+  </news>
+  <news>
+    <id>1005</id>
+    <title>"Farmen"-Stine: - Dårlig gjort</title>
+    <date>11. desember 2016</date>
+    <category>Underholdning</category>
+    <text>Stine Hartmann (30) ble oppfordret av TV 2 til å være med i «Farmen» og endte opp som publikumsfavoritt. Men søndag endte eventyret i en dramatisk tvekamp.</text>
+    <img>Images/farmenStine.jpg</img>
+  </news>
+  <news>
+    <id>1006</id>
+    <title>Nå kan Carlsen bli vippet av sjakktronen</title>
+    <date>13. desember 2016</date>
+    <category>Sport</category>
+    <text>Ingen har noen gang vært nærmere å kaste Magnus Carlsen ned fra rankingtoppen enn det Fabiano Caruana er nå. I teorien kan amerikaneren bli verdensener i løpet av noen dager.</text>
+    <img>Images/carlsen.jpg</img>
+  </news>
+  <news>
+    <id>1007</id>
+    <title>Vant Gullballen for fjerde gang</title>
+    <date>13. desember 2016</date>
+    <category>Sport</category>
+    <text>Cristiano Ronaldo er stemt frem som vinner av den prestisjefulle kåringen av 173 sportsjournalister. Dette er den fjerde gangen stjernespilleren vinner prisen.</text>
+    <img>Images/ronaldo.jpg</img>
+  </news>
+</newsArticles>

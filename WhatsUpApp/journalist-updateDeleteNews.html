@@ -1,0 +1,187 @@
+﻿<!DOCTYPE html>
+<html ng-app="whatsUpApp">
+<head>
+    <title>Journalistdelen - Oppdater/slett nyhetsartikkel</title>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href=""><!--Removes favicon.ico error-->
+    <link rel="stylesheet" type="text/css" href="react-angular-bootstrap-local/css/bootstrap.min.css" /><!--Bootstrap-->
+
+</head>
+<body ng-controller="JournalistController as journalistCtrl">
+
+    <div class="container">
+
+        <!--Header-->
+        <header class="page-header">
+            <h1>WhatsUp - Journalist</h1>
+        </header><!--end Header-->
+
+        <!--Nav-->
+        <nav>
+            <ul>
+                <li><a href="journalist-index.html">Journalist: Visning og opprett ny nyhetsartikkel</a></li>
+                <li><a href="customer-index.html">Kunde-siden</a></li><!--To customer-site-->
+            </ul>
+        </nav><!--end Nav-->
+    
+        <!--Change or delete saved newsArticle-->
+        <section class="bg-info">
+            <h3>Oppdater/slett nyhetsartikkel</h3>
+            <p>Hent nyhetsartikkel etter ID (1001 - 1007):</p>
+                
+            <table class="table-condensed">
+                <tr>
+                    <td>ID</td>
+                    <td><input class="form-control" type="text" ng-model="journalistCtrl.id" /></td>
+                    <td><input class="btn btn-info" ng-click="journalistCtrl.getNewsId()" type="button" value="Hent" /></td>
+                </tr>
+                <tr>
+                    <td>Tittel</td>
+                    <td><input class="form-control" type="text" ng-model="journalistCtrl.title" /></td>
+                </tr>
+                <tr>
+                    <td>Dato</td>
+                    <td><input class="form-control" type="text" ng-model="journalistCtrl.date" /></td>
+                </tr>
+                <tr>
+                    <td>Kategori</td>
+                    <td><input class="form-control" type="text" ng-model="journalistCtrl.category" /></td>
+                </tr>
+                <tr>
+                    <td>Tekst</td>
+                    <td><textarea class="form-control" type="text" ng-model="journalistCtrl.text" ></textarea></td>
+                </tr>
+            </table><!--end table-->
+
+            <input class="btn btn-warning" ng-click="journalistCtrl.putNews()" type="button" value="Endre nyhetsartikkel" />
+            <input class="btn btn-danger" ng-click="journalistCtrl.deleteNews()" type="button" value="Slett nyhetsartikkel" />
+
+        </section><!--end Change or delete saved newsArticle-->
+    </div><!--end container-->
+
+<script src="react-angular-bootstrap-local/js/angular.min.js"></script><!--Angular-->
+<script>
+    var whatsUpApp = angular.module("whatsUpApp", []);
+
+    whatsUpApp.controller("JournalistController", ["$http", function ($http) {
+        var _this = this;
+
+        //Start/default news:
+        _this.id = " ";
+        _this.title = " ";
+        _this.date = " ";
+        _this.category = " ";
+        _this.text = " ";
+
+        //getNewsId  - retrive:
+        _this.getNewsId = function () {
+
+            var getNewsUrl = "api/Journalist/GetNewsId"; /*api/controller/function*/
+            $http
+                .get(
+                    getNewsUrl,
+                    {
+                        params: {
+                            id: _this.id //Get by id
+                        }
+                    }
+                )
+                .then(
+                    function (response) {
+                        console.log("Henting: OK");
+
+                        var title = response.data.news.title;
+                        var date = response.data.news.date;
+                        var category = response.data.news.category;
+                        var text = response.data.news.text;
+
+                        _this.title = title;
+                        _this.date = date;
+                        _this.category = category;
+                        _this.text = text;
+                    },
+                    function (response) {
+                        console.log("Henting: Error");
+                    }
+                )
+        };//end getNewsId - retrive
+
+        //putNews - update:
+        _this.putNews = function () {
+
+            var putNewsUrl = "api/Journalist/PutNews"; //Path to Controller
+
+            $http
+                .put(
+                    putNewsUrl,
+                    JSON.stringify(
+                        {
+                            id: _this.id,
+                            title: _this.title,
+                            date: _this.date,
+                            category: _this.category,
+                            text: _this.text
+                        }
+                    ),
+                    {
+                        headers: { "Content-Type": "application/json" }
+                    }
+                )
+                .then(
+                    function (response) {
+                        alert("Nyhetsartikkelen blei oppdatert!");
+
+                        var title = response.data.news.title;
+                        var date = response.data.news.date;
+                        var category = response.data.news.category;
+                        var text = response.data.news.text;
+
+                        _this.title = title;
+                        _this.date = date;
+                        _this.category = category;
+                        _this.text = text;
+                    },
+                    function (response) {
+                        alert("Nyhetsartikkelen blei IKKJE oppdatert.");
+                    }
+                );
+        };//end putNews
+
+        //deleteNews:
+        _this.deleteNews = function () {
+            var deleteNewsUrl = "api/Journalist/DeleteNews"; //Path to Controller
+            $http
+                .delete(
+                    deleteNewsUrl,
+                    {
+                        params: {
+                            id: _this.id //By id
+                        }
+                    }
+                )
+                .then(
+                    function (response) {
+                        var title = response.data.news.title;
+                        var date = response.data.news.date;
+                        var category = response.data.news.category;
+                        var text = response.data.news.text;
+                        var img = response.data.news.img;
+
+                        _this.title = title;
+                        _this.date = date;
+                        _this.category = category;
+                        _this.text = text;
+                        _this.img = img;
+                        alert("Nyhetsartikkelen blei sletta!");
+                    },
+                    function (response) {
+                        console.log(response);
+                        alert("Nyhetsartikkelen blei IKKJE sletta.");
+                    }
+                );
+            };//end deleteNews
+        }]);//end JournalistController
+    </script>
+
+</body>
+</html>
